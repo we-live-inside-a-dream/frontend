@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+.message{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+}
+
+button {
+  border-radius: 15px;
+  background-color: aqua;
+  color: blanchedalmond;
+  width: 150px;
+  height: 35px;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 1px solid gray;
+}
